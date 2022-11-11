@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 🔭 I’m currently more into Programming, it fun.
+- 🌱 I’m currently learning Data Science using Python.
+- 👯 I’m looking to collaborate on Data Science Projects, with the community, for the community.
+- 🤔 I’m looking for help with Data Science, in deep. 
+- 💬 Ask me about Debugging & Problem solving.
 <!--
 **ShikharSamant/ShikharSamant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
