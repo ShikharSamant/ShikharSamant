@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, Namaste 👋
 - 🔭 I’m currently more into Programming, it fun.
 - 🌱 I’m currently learning Data Science using Python.
 - 👯 I’m looking to collaborate on Data Science Projects, with the community, for the community.
